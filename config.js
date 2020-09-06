@@ -35,7 +35,7 @@ var config = {
         play: "Click me to have some music",
         bannar_coming: "Want to add some decoration?",
         balloons_flying: "Feel like missing somethings?",
-        cake_fadein: "Birthday cake？",
+        cake_fadein: "Birthday cake?",
         light_candle: "Candle？",
         wish_message: "HAPPY BIRTHDAY",
         story: "A MESSAGE FOR YOU",
