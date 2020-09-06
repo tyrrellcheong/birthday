@@ -31,10 +31,10 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Click ME!!!",
-        play: "Click me to have some music",
-        bannar_coming: "Want to add some decoration?",
-        balloons_flying: "Feel like missing somethings?",
+        turn_on: "TURN ON LIGHT",
+        play: "PLAY MUSIC",
+        bannar_coming: "LET's add decoration",
+        balloons_flying: "Anythings else?",
         cake_fadein: "Birthday cake?",
         light_candle: "Candle？",
         wish_message: "HAPPY BIRTHDAY",
