@@ -4,8 +4,7 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "./imgs/Sahil2.JPG"
-        "TO MY LOVE",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "MY BABY",  // 同上...
+        "TO MY LOVE":"./imgs/Sahil1.JPG"     //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Today is your birthday",
         "The first birthday we celebrate",
         "Even though I'm not with you ",
